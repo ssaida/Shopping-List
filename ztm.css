@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: silver;
+  font-family: sans-serif;
+}
+.container{
+  width: 60%;
+  margin: auto;
+  background: #fff;
+  padding: 20px;
+}
+.container ul{
+  border: 1px solid #000;
+  margin: 8px 0;
+}
+.container li{
+  list-style-type: none;
+  border: 1px solid #000;
+  padding: 2px 4px;
+}
